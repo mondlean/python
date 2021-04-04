@@ -1,24 +1,5 @@
-import random
+import random 
 
-
-
-# while (t) :
-#     mylotlist = []
-#     for i in range(6) :
-#         a = int(input("1부터 45까지의 번호를 적어주세요 "))
-#         if a>45:
-#             a = int(input("45보다 큰 수입니다 다시 적어주세요 "))
-            
-#         while a in mylotlist:
-#             a = int(input("중복된 값이 있습니다 다시 적어주세요 "))
-#             if a>45:
-#                 a = int(input("45보다 큰 수입니다 다시 적어주세요 "))
-        
-#         mylotlist.append(a)  
-        
-#     print(mylotlist)
-   
-   
 while (True) :#계속 돌아감 
     lottonum=[]
     mylotlist = [] 
